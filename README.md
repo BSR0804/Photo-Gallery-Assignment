@@ -1,5 +1,7 @@
 # 📸 Photo Gallery Web App
 
+**Live Demo: [photo-gallery-assignment-ten.vercel.app](https://photo-gallery-assignment-ten.vercel.app/)**
+
 A clean, responsive photo gallery application built as part of a frontend internship pre-screening assignment. This app fetches and displays imagery from the Picsum Photos API with a focus on high-performance code and premium user experience.
 
 ## 🚀 Features

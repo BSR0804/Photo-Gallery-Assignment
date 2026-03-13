@@ -62,4 +62,4 @@ src/
 - **Lazy Loading**: Images are optimized for performance with native browser lazy loading.
 
 ---
-*Built with ❤️ as a Frontend Assignment.*
+*Built by Bhaskar Shamo Ray.*
